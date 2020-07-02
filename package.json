@@ -1,0 +1,16 @@
+{
+  "name": "honkitbook",
+  "version": "0.1.0",
+  "description": "Learn honkit",
+  "main": "index.js",
+  "scripts": {
+    "serve": "honkit serve",
+    "build": "honkit build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "honkit": "^3.5.0"
+  }
+}
